@@ -1,0 +1,8 @@
+[submodule "isolation-forest"]
+	path = isolation-forest
+	url = https://github.com/vikashranjan/isolation-forest.git
+	branch = main
+[submodule "dl-framework"]
+	path = dl-framework
+	url = https://github.com/vikashranjan/dl-framework.git
+	branch = main
