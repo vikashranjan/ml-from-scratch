@@ -6,3 +6,7 @@
 	path = dl-framework
 	url = https://github.com/vikashranjan/dl-framework.git
 	branch = main
+[submodule "gradient-boosting"]
+	path = dl-framework
+	url = https://github.com/vikashranjan/gradient-boosting.git
+	branch = main
