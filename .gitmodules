@@ -10,3 +10,7 @@
 	path = gradient-boosting
 	url = https://github.com/vikashranjan/gradient-boosting
 	branch = main
+[submodule "transformer"]
+	path = transformer
+	url = https://github.com/vikashranjan/transformer
+	branch = main
